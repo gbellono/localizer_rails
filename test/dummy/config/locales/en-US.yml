@@ -1,0 +1,42 @@
+en-US:
+  hello: "Hello world"
+  hello_name: 'Hello, %{name}!'
+  rails_errors:
+    # 4xx
+    bad_request:
+    unauthorized:
+    payment_required:
+    forbidden:
+    not_found: "The requested resource doesn't exist."
+    method_not_allowed:
+    not_acceptable:
+    proxy_authentication_required:
+    request_timeout:
+    conflict:
+    gone:
+    length_required:
+    precondition_failed:
+    request_entity_too_large:
+    request_uri_too_long:
+    unsupported_media_type:
+    requested_range_not_satisfiable:
+    expectation_failed:
+    unprocessable_entity:
+    locked:
+    failed_dependency:
+    upgrade_required:
+    # 5xx
+    internal_server_error:
+    not_implemented:
+    bad_gateway:
+    service_unavailable:
+    gateway_timeout:
+    http_version_not_supported:
+    insufficient_storage:
+    not_extended:
+
+  inbox:
+    zero: 'You have no messages'
+    one: 'You have one message'
+    other: 'You have %{count} messages'
+

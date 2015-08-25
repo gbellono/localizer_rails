@@ -1,0 +1,9 @@
+@import 'localizer_rails/localizer_rails';
+
+.dropdown-menu.locale_menu > li {
+  & span.loc_menu_active {
+    &:before {
+      color: green;
+    }
+  }
+}

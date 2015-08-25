@@ -1,0 +1,17 @@
+## modify the default values...
+# ENGLISH
+:en:
+  :lang_default: 'En (custom)'
+  :lang_local: 'Eng (custom)'
+  :country_default: ''
+  :country_local: ''
+  :country_code: ''
+
+# ITALIAN
+:it:
+  :lang_default: 'It (custom)'
+  :lang_local: 'Ita (custom)'
+  :country_default: ''
+  :country_local: ''
+  :country_code: ''
+

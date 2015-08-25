@@ -1,0 +1,4 @@
+<span class="menu_flag"><%= image_tag("flags/#{country_or_lang_code(code_sym, lang_name)}.png", :alt => '') %></span>
+<span class="lang_name"><%= get_lang_name(lang_name) %></span>
+<%# play with 2nd arg... remove it or change the enclosing chars: %>
+<span class="country_code"><%= country_code(lang_name,%w[( )]) %></span>

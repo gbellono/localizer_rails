@@ -1,0 +1,74 @@
+.dropdown-menu.locale_menu > li > a span ~ span,
+.dropdown-menu.locale_menu > li > span.loc_menu_active span ~ span {
+  margin-left: 4px;
+}
+.dropdown-menu.locale_menu > li {
+  white-space: nowrap;
+  &.active {
+      pointer-events: none;
+    & > a {
+      pointer-events: none;
+    }
+  }
+  & .menu_flag img {
+    vertical-align: baseline;
+    border: 1px solid white;
+  }
+  & > a.loc_menu, & .loc_menu_active {
+    padding: 3px 20px;
+  }
+  & span.loc_menu_active {
+    display: block;
+    font-style: italic;
+    cursor: default;
+    &:before {
+      content: '\2022';
+      color: red;
+      font-weight: 800;
+      position: relative;
+      line-height: 0;
+      padding-right: 4px;
+      margin-left: -12px;
+      width: 26px;
+    }
+  }
+  & span.loc_menu.disabled {
+    color: gray;
+  }
+  & > a.loc_menu {
+    &:before {
+      content: '\2022';
+      visibility: hidden;
+      font-weight: 800;
+      position: relative;
+      padding-right: 4px;
+      margin-left: -12px;
+      width: 26px;
+    }
+  }
+}
+
+@media (max-width: 767px) {
+  .dropdown-menu.locale_menu > li {
+    & > span.loc_menu.disabled {
+      padding: 5px 15px 5px 25px;
+    }
+  }
+  .navbar-inverse .navbar-nav .open .dropdown-menu > li > span.disabled {
+    color: #ccc;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > li > span.disabled {
+    color: #bbb;
+  }
+}
+
+ul.scroll-menu {
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+    -moz-overflow-scrolling: touch;
+    -ms-overflow-scrolling: touch;
+    -o-overflow-scrolling: touch;
+    overflow-scrolling: touch;
+    height: auto;
+    max-height: 400px;
+}

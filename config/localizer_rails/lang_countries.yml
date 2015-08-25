@@ -1,0 +1,1018 @@
+:af:
+  :lang_default: 'Afrikaans'
+  :lang_local: 'Afrikaans'
+  :country_default: 'South Africa'
+  :country_local: 'Suid-Afrika'
+  :country_code: 'ZA'
+
+:sq:
+  :lang_default: 'Albanian'
+  :lang_local: 'Shqip'
+  :country_default: 'Albania'
+  :country_local: 'Shqipëria'
+  :country_code: 'AL'
+
+
+# ARABIC
+:ar:
+  :lang_default: 'Arabic'
+  :lang_local: 'العربية'
+  :country_default: ''
+  :country_local: ''
+  :country_code: ''
+
+:ar-DZ:
+  :lang_default: 'Arabic'
+  :lang_local: 'العربية'
+  :country_default: 'Algeria'
+  :country_local: 'الجزائر'
+  :country_code: 'DZ'
+
+:ar-BH:
+  :lang_default: 'Arabic'
+  :lang_local: 'العربية'
+  :country_default: 'Bahrain'
+  :country_local: 'البحرين'
+  :country_code: 'BH'
+
+:ar-DJ:
+    :lang_default: 'Arabic'
+    :lang_local: 'العربية'
+    :country_default: 'Djibouti'
+    :country_local: 'جيبوتي'
+    :country_code: 'DJ'
+
+:ar-EG:
+    :lang_default: 'Arabic'
+    :lang_local: 'العربية'
+    :country_default: 'Egypt'
+    :country_local: 'مصر'
+    :country_code: 'EG'
+
+:ar-IQ:
+    :lang_default: 'Arabic'
+    :lang_local: 'العربية'
+    :country_default: 'Iraq'
+    :country_local: 'العراق'
+    :country_code: 'IQ'
+
+:ar-JO:
+    :lang_default: 'Arabic'
+    :lang_local: 'العربية'
+    :country_default: 'Jordan'
+    :country_local: 'الأردن'
+    :country_code: 'JO'
+
+:ar-KW:
+    :lang_default: 'Arabic'
+    :lang_local: 'لعربية'
+    :country_default: 'Kuwait'
+    :country_local: 'الكويت'
+    :country_code: 'KW'
+
+:ar-LB:
+    :lang_default: 'Arabic'
+    :lang_local: 'العربية'
+    :country_default: 'Lebanon'
+    :country_local: 'لبنان'
+    :country_code: 'LB'
+
+:ar-LY:
+    :lang_default: 'Arabic'
+    :lang_local: 'العربية'
+    :country_default: 'Libya'
+    :country_local: 'ليبيا'
+    :country_code: 'LB'
+
+:ar-MA:
+    :lang_default: 'Arabic'
+    :lang_local: 'العربية'
+    :country_default: 'Morocco'
+    :country_local: 'المغرب'
+    :country_code: 'MA'
+
+:ar-OM:
+    :lang_default: 'Arabic'
+    :lang_local: 'العربية'
+    :country_default: 'Morocco'
+    :country_local: 'عُمان'
+    :country_code: 'OM'
+
+:ar-QA:
+    :lang_default: 'Arabic'
+    :lang_local: 'العربية'
+    :country_default: 'Qatar'
+    :country_local: 'قطر'
+    :country_code: 'QA'
+
+:ar-SA:
+    :lang_default: 'Arabic'
+    :lang_local: 'العربية'
+    :country_default: 'Qatar'
+    :country_local: 'المملكة العربية السعودية'
+    :country_code: 'SA'
+
+:ar-SY:
+    :lang_default: 'Arabic'
+    :lang_local: 'العربية'
+    :country_default: 'Syria'
+    :country_local: 'سورية'
+    :country_code: 'SY'
+
+:ar-TN:
+    :lang_default: 'Arabic'
+    :lang_local: 'العربية'
+    :country_default: 'Tunisia'
+    :country_local: 'تونس'
+    :country_code: 'TN'
+
+:ar-AE:
+    :lang_default: 'Arabic'
+    :lang_local: 'العربية'
+    :country_default: 'United Arab Emirates'
+    :country_local: 'الإمارات العربيّة المتّحدة'
+    :country_code: 'AE'
+
+:ar-YE:
+    :lang_default: 'Arabic'
+    :lang_local: 'العربية'
+    :country_default: 'Yemen'
+    :country_local: 'اليمن'
+    :country_code: 'YE'
+
+
+:hy:
+  :lang_default: 'Armenian'
+  :lang_local: 'Հայերեն'
+  :country_default: 'Armenia'
+  :country_local: 'Հայաստան'
+  :country_code: 'AM'
+
+:az:
+  :lang_default: 'Azeri'
+  :lang_local: 'Azərbaycan dili'
+  :country_default: 'Azerbaijan'
+  :country_local: 'Azərbaycan'
+  :country_code: 'AZ'
+
+:be:
+  :lang_default: 'Belarusian'
+  :lang_local: 'беларуская мова'
+  :country_default: 'Belarus'
+  :country_local: 'Беларусь'
+  :country_code: 'BY'
+
+:bg:
+  :lang_default: 'Bulgarian'
+  :lang_local: 'български език'
+  :country_default: 'Bulgaria'
+  :country_local: 'България'
+  :country_code: 'BG'
+
+
+# CHINESE
+:zh:
+  :lang_default: 'Chinese'
+  :lang_local: ' 中文, 汉语, 漢語'
+  :country_default: ''
+  :country_local: ''
+  :country_code: ''
+
+:zh-CN:
+  :lang_default: 'Chinese'
+  :lang_local: ' 中文, 汉语, 漢語'
+  :country_default: 'China'
+  :country_local: '中国 (中华人民共和国), 中國 (中華人民共和國)'
+  :country_code: 'CN'
+
+:zh-HK:
+  :lang_default: 'Chinese'
+  :lang_local: ' 中文, 汉语, 漢語'
+  :country_default: 'Hong Kong'
+  :country_local: '香港'
+  :country_code: 'HK'
+
+:zh-SG:
+  :lang_default: 'Chinese'
+  :lang_local: ' 中文, 汉语, 漢語'
+  :country_default: 'Singapore'
+  :country_local: '新加坡'
+  :country_code: 'SG'
+
+:zh-TW:
+  :lang_default: 'Chinese'
+  :lang_local: ' 中文, 汉语, 漢語'
+  :country_default: 'Taiwan'
+  :country_local: '中華民國, 臺灣/台灣'
+  :country_code: 'TW'
+
+
+:hr:
+  :lang_default: 'Croatian'
+  :lang_local: 'Hrvatski jezik'
+  :country_default: 'Croatia'
+  :country_local: 'Hrvatska'
+  :country_code: 'HR'
+
+:cs:
+  :lang_default: 'Czech'
+  :lang_local: 'Čeština, Český jazyk'
+  :country_default: 'Czech Republic'
+  :country_local: 'Česká republika'
+  :country_code: 'CZ'
+
+:da:
+  :lang_default: 'Danish'
+  :lang_local: 'Dansk'
+  :country_default: 'Denmark'
+  :country_local: 'Danmark'
+  :country_code: 'DK'
+
+:div:
+  :lang_default: 'Dhivehi'
+  :lang_local: 'Dhivehi'
+  :country_default: 'Maldives'
+  :country_local: 'Dhivehi Raajje'
+  :country_code: 'MV'
+
+
+# DUTCH
+:nl:
+  :lang_default: 'Dutch'
+  :lang_local: 'Nederlands'
+  :country_default: ''
+  :country_local: ''
+  :country_code: ''
+
+:nl-BE:
+  :lang_default: 'Dutch'
+  :lang_local: 'Nederlands'
+  :country_default: 'Belgium'
+  :country_local: 'België'
+  :country_code: 'BE'
+
+:nl-NL:
+  :lang_default: 'Dutch'
+  :lang_local: 'Nederlands'
+  :country_default: 'The Netherlands'
+  :country_local: 'Nederland'
+  :country_code: 'NL'
+
+
+# ENGLISH
+:en:
+  :lang_default: 'English'
+  :lang_local: 'English'
+  :country_default: ''
+  :country_local: ''
+  :country_code: ''
+
+:en-AU:
+  :lang_default: 'English'
+  :lang_local: 'English'
+  :country_default: 'Australia'
+  :country_local: 'Australia'
+  :country_code: 'AU'
+
+:en-BZ:
+  :lang_default: 'English'
+  :lang_local: 'English'
+  :country_default: 'Belize'
+  :country_local: 'Belize'
+  :country_code: 'BZ'
+
+:en-CA:
+  :lang_default: 'English'
+  :lang_local: 'English'
+  :country_default: 'Canada'
+  :country_local: 'Canada'
+  :country_code: 'CA'
+
+:en-CB:
+  :lang_default: 'English'
+  :lang_local: 'English'
+  :country_default: 'Caribbean'
+  :country_local: 'Caribbean'
+  :country_code: 'CB'
+
+:en-IE:
+  :lang_default: 'English'
+  :lang_local: 'English'
+  :country_default: 'Ireland'
+  :country_local: 'Ireland'
+  :country_code: 'IE'
+
+:en-JM:
+  :lang_default: 'English'
+  :lang_local: 'English'
+  :country_default: 'Jamaica'
+  :country_local: 'Jamaica'
+  :country_code: 'JM'
+
+:en-NZ:
+  :lang_default: 'English'
+  :lang_local: 'English'
+  :country_default: 'New Zealand'
+  :country_local: 'New Zealand'
+  :country_code: 'NZ'
+
+:en-PH:
+  :lang_default: 'English'
+  :lang_local: 'English'
+  :country_default: 'Philippines'
+  :country_local: 'Philippines'
+  :country_code: 'PH'
+
+:en-ZA:
+  :lang_default: 'English'
+  :lang_local: 'English'
+  :country_default: 'South Africa'
+  :country_local: 'South Africa'
+  :country_code: 'ZA'
+
+:en-TT:
+  :lang_default: 'English'
+  :lang_local: 'English'
+  :country_default: 'Trinidad and Tobago'
+  :country_local: 'Trinidad and Tobago'
+  :country_code: 'TT'
+
+:en-GB:
+  :lang_default: 'English'
+  :lang_local: 'English'
+  :country_default: 'United Kingdom'
+  :country_local: 'United Kingdom'
+  :country_code: 'GB'
+
+:en-US:
+  :lang_default: 'English'
+  :lang_local: 'English'
+  :country_default: 'United States'
+  :country_local: 'United States'
+  :country_code: 'US'
+
+:en-ZW:
+  :lang_default: 'English'
+  :lang_local: 'English'
+  :country_default: 'Zimbabwe'
+  :country_local: 'Zimbabwe'
+  :country_code: 'ZW'
+
+
+:et:
+  :lang_default: 'Estonian'
+  :lang_local: 'Eesti'
+  :country_default: 'Estonia'
+  :country_local: 'Eesti'
+  :country_code: 'EE'
+
+:fo:
+  :lang_default: 'Faroese'
+  :lang_local: 'Føroyskt'
+  :country_default: 'Faroe Islands'
+  :country_local: 'Føroyar'
+  :country_code: 'FO'
+
+:fa:
+  :lang_default: 'Farsi'
+  :lang_local: 'فارسی'
+  :country_default: 'Iran'
+  :country_local: 'ایران'
+  :country_code: 'IR'
+
+:fi:
+  :lang_default: 'Finnish'
+  :lang_local: 'Suomi'
+  :country_default: 'Finland'
+  :country_local: 'Suomi'
+  :country_code: 'FI'
+
+
+# FRENCH
+:fr:
+  :lang_default: 'French'
+  :lang_local: 'Français'
+  :country_default: ''
+  :country_local: ''
+  :country_code: ''
+
+:fr-BE:
+  :lang_default: 'French'
+  :lang_local: 'Français'
+  :country_default: 'Belgium'
+  :country_local: 'Belgique'
+  :country_code: 'BE'
+
+:fr-CA:
+  :lang_default: 'French'
+  :lang_local: 'Français'
+  :country_default: 'Canada'
+  :country_local: 'Canada'
+  :country_code: ''
+
+:fr-FR:
+  :lang_default: 'French'
+  :lang_local: 'Français'
+  :country_default: 'France'
+  :country_local: 'France'
+  :country_code: 'FR'
+
+:fr-LU:
+  :lang_default: 'French'
+  :lang_local: 'Français'
+  :country_default: 'Luxembourg'
+  :country_local: 'Luxembourg'
+  :country_code: 'LU'
+
+:fr-MC:
+  :lang_default: 'French'
+  :lang_local: 'Français'
+  :country_default: 'Monaco'
+  :country_local: 'Monaco'
+  :country_code: 'MC'
+
+:fr-CH:
+  :lang_default: 'French'
+  :lang_local: 'Français'
+  :country_default: 'Switzerland'
+  :country_local: 'Suisse'
+  :country_code: 'CH'
+
+
+:ka:
+  :lang_default: 'Georgian'
+  :lang_local: 'ქართული'
+  :country_default: 'Georgia'
+  :country_local: 'საქართველო'
+  :country_code: 'GE'
+
+
+# GERMAN
+:de:
+  :lang_default: 'German'
+  :lang_local: 'Deutsch'
+  :country_default: ''
+  :country_local: ''
+  :country_code: ''
+
+:de-AT:
+  :lang_default: 'German'
+  :lang_local: 'Deutsch'
+  :country_default: 'Austria'
+  :country_local: 'Österreich'
+  :country_code: 'AT'
+
+:de-DE:
+  :lang_default: 'German'
+  :lang_local: 'Deutsch'
+  :country_default: 'Germany'
+  :country_local: 'Deutschland'
+  :country_code: 'DE'
+
+:de-LI:
+  :lang_default: 'German'
+  :lang_local: 'Deutsch'
+  :country_default: 'Liechtenstein'
+  :country_local: 'Liechtenstein'
+  :country_code: 'LI'
+
+:de-LU:
+  :lang_default: 'German'
+  :lang_local: 'Deutsch'
+  :country_default: 'Luxembourg'
+  :country_local: 'Luxemburg'
+  :country_code: 'LU'
+
+:de-CH:
+  :lang_default: 'German'
+  :lang_local: 'Deutsch'
+  :country_default: 'Switzerland'
+  :country_local: 'Schweiz'
+  :country_code: 'CH'
+
+
+:el:
+  :lang_default: 'Greek'
+  :lang_local: 'Ελληνικά'
+  :country_default: 'Greece'
+  :country_local: 'Ελλάς'
+  :country_code: 'GR'
+
+
+# INDIA
+# http://en.wikipedia.org/wiki/Languages_of_India
+# INDIA - decending order:
+# Hindi, Bengali, Telugu, Marathi, Tamil, Urdu, Gujarati, Kannada, Malayalam, Oriya, Punjabi, Assamese (Asamiya)
+:hi-IN:
+  :lang_default: 'Hindi'
+  :lang_local: 'हिन्दी, हिंदी'
+  :country_default: 'India'
+  :country_local: 'भारत'
+  :country_code: 'IN'
+
+:te-IN:
+  :lang_default: 'Telugu'
+  :lang_local: 'తెలుగు'
+  :country_default: 'India'
+  :country_local: 'భారత దేశం'
+  :country_code: 'IN'
+
+:mr-IN:
+  :lang_default: 'Marathi'
+  :lang_local: 'मराठी'
+  :country_default: 'India'
+  :country_local: 'भारत'
+  :country_code: 'IN'
+
+:ta-IN:
+  :lang_default: 'Tamil'
+  :lang_local: 'தமிழ்'
+  :country_default: 'India'
+  :country_local: 'இந்தியா, பாரத'
+  :country_code: 'IN'
+
+:gu-IN:
+  :lang_default: 'Gujarati'
+  :lang_local: 'ગુજરાતી'
+  :country_default: 'India'
+  :country_local: 'ભારત'
+  :country_code: 'IN'
+
+:kn-IN:
+  :lang_default: 'Kannada'
+  :lang_local: 'ಕನ್ನಡ'
+  :country_default: 'India'
+  :country_local: 'ಭಾರತ'
+  :country_code: 'IN'
+
+:pa-IN:
+  :lang_default: 'Punjabi'
+  :lang_local: 'ਪੰਜਾਬੀ, پنجابی'
+  :country_default: 'India'
+  :country_local: 'ਭਾਰਤ'
+  :country_code: 'IN'
+
+:kok-IN:
+  :lang_default: 'Konkani'
+  :lang_local: 'Konkani'
+  :country_default: 'India'
+  :country_local: 'भारत'
+  :country_code: 'IN'
+
+:sa:
+  :lang_default: 'Sanskrit'
+  :lang_local: 'संस्कृतम्'
+  :country_default: 'India'
+  :country_local: 'भारतम्'
+  :country_code: 'IN'
+
+
+:he:
+  :lang_default: 'Hebrew'
+  :lang_local: 'עברית'
+  :country_default: 'Israel'
+  :country_local: 'ישראל'
+  :country_code: 'IL'
+
+:hu:
+  :lang_default: 'Hungarian'
+  :lang_local: 'Magyar'
+  :country_default: 'Hungary'
+  :country_local: 'Magyarország'
+  :country_code: 'HU'
+
+:is:
+  :lang_default: 'Icelandic'
+  :lang_local: 'Íslenska'
+  :country_default: 'Iceland'
+  :country_local: 'Ísland'
+  :country_code: 'IS'
+
+:id:
+  :lang_default: 'Indonesian'
+  :lang_local: 'Bahasa Indonesia'
+  :country_default: 'Indonesia'
+  :country_local: 'Indonesia'
+  :country_code: 'ID'
+
+
+# ITALIAN
+:it:
+  :lang_default: 'Italian'
+  :lang_local: 'Italiano'
+  :country_default: ''
+  :country_local: ''
+  :country_code: ''
+
+:it-IT:
+  :lang_default: 'Italian'
+  :lang_local: 'Italiano'
+  :country_default: 'Italy'
+  :country_local: 'Italia'
+  :country_code: 'IT'
+
+:it-CH:
+  :lang_default: 'Italian'
+  :lang_local: 'Italiano'
+  :country_default: 'Switzerland'
+  :country_local: 'Svizzera'
+  :country_code: 'CH'
+
+:ja:
+  :lang_default: 'Japanese'
+  :lang_local: '日本語, にほんご'
+  :country_default: 'Japan'
+  :country_local: '日本'
+  :country_code: 'JP'
+
+:kk:
+  :lang_default: 'Kazakh'
+  :lang_local: 'қазақ тілі'
+  :country_default: 'Kazakhstan'
+  :country_local: 'Қазақстан'
+  :country_code: 'KZ'
+
+:km:
+  :lang_default: 'Khmer'
+  :lang_local: 'មែរ, ខេមរភាសា, ភាសាខ្មែរ'
+  :country_default: 'Cambodia'
+  :country_local: 'កម្ពុជា'
+  :country_code: 'KH'
+
+:ko:
+  :lang_default: 'Korean'
+  :lang_local: '한국어, 조선어'
+  :country_default: 'Korea'
+  :country_local: '한국, 韓國'
+  :country_code: 'KR'
+
+:ky:
+  :lang_default: 'Kyrgyz'
+  :lang_local: 'Кыргызча, Кыргыз тили'
+  :country_default: 'Kyrgyzstan'
+  :country_local: 'Кыргызстан'
+  :country_code: 'KZ'
+
+:lv:
+  :lang_default: 'Latvian'
+  :lang_local: 'Latviešu valoda'
+  :country_default: 'Latvia'
+  :country_local: 'Latvija'
+  :country_code: 'LV'
+
+:lt:
+  :lang_default: 'Lithuanian'
+  :lang_local: 'Lietuvių kalba'
+  :country_default: 'Lithuania'
+  :country_local: 'Lietuva'
+  :country_code: 'LT'
+
+:mk:
+  :lang_default: 'Macedonian (FYROM)'
+  :lang_local: 'македонски јазик'
+  :country_default: 'Macedonia'
+  :country_local: 'Makedonija'
+  :country_code: 'MK'
+
+
+# MALAY
+:ms:
+  :lang_default: 'Malay'
+  :lang_local: 'Bahasa Melayu, بهاس ملايو'
+  :country_default: ''
+  :country_local: ''
+  :country_code: ''
+
+:ms-BN:
+  :lang_default: 'Malay'
+  :lang_local: 'Bahasa Melayu, بهاس ملايو'
+  :country_default: 'Brunei'
+  :country_local: 'بروني'
+  :country_code: 'BN'
+
+:ms-MY:
+  :lang_default: 'Malay'
+  :lang_local: 'Bahasa Melayu, بهاس ملايو'
+  :country_default: 'Malaysia'
+  :country_local: 'Malaysia'
+  :country_code: 'MY'
+
+
+# NORWEGIAN
+:no:
+  :lang_default: 'Norwegian'
+  :lang_local: 'Norsk'
+  :country_default: ''
+  :country_local: ''
+  :country_code: ''
+
+:nb-NO:
+  :lang_default: 'Norwegian (Bokmål)'
+  :lang_local: 'Norsk bokmål'
+  :country_default: 'Norway'
+  :country_local: 'Norge'
+  :country_code: 'NO'
+
+:nn-NO:
+  :lang_default: 'Norwegian (Nynorsk)'
+  :lang_local: 'Norsk nynorsk'
+  :country_default: 'Norway'
+  :country_local: 'Noreg'
+  :country_code: 'NO'
+
+
+:pl:
+  :lang_default: 'Polish'
+  :lang_local: 'Polsky, Język polski, Polszczyzna'
+  :country_default: 'Poland'
+  :country_local: 'Polska'
+  :country_code: 'PL'
+
+
+# PORTUGUESE
+:pt:
+  :lang_default: 'Portuguese'
+  :lang_local: 'Português'
+  :country_default: ''
+  :country_local: ''
+  :country_code: ''
+
+:pt-BR:
+  :lang_default: 'Portuguese'
+  :lang_local: 'Português'
+  :country_default: 'Brazil'
+  :country_local: 'Brasil'
+  :country_code: 'BR'
+
+:pt-PT:
+  :lang_default: 'Portuguese'
+  :lang_local: 'Português'
+  :country_default: 'Portugal'
+  :country_local: 'Portugal'
+  :country_code: 'PT'
+
+
+:ro:
+  :lang_default: 'Romanian'
+  :lang_local: 'Limba română'
+  :country_default: 'Romania'
+  :country_local: 'România'
+  :country_code: 'RO'
+
+:ru:
+  :lang_default: 'Russian'
+  :lang_local: 'Русский'
+  :country_default: 'Russia'
+  :country_local: 'Россия'
+  :country_code: 'RU'
+
+:sr:
+  :lang_default: 'Serbian'
+  :lang_local: 'Српски језик'
+  :country_default: 'Serbia'
+  :country_local: 'Srbija'
+  :country_code: 'SP'
+
+:sk:
+  :lang_default: 'Slovak'
+  :lang_local: 'Slovenčina, Slovenský jazyk'
+  :country_default: 'Slovakia'
+  :country_local: 'Slovensko'
+  :country_code: 'SK'
+
+:sl:
+  :lang_default: 'Slovenian'
+  :lang_local: 'Slovenščina, Slovenski jezik'
+  :country_default: 'Slovenia'
+  :country_local: 'Slovenija'
+  :country_code: 'SI'
+
+
+# SPANISH
+:es:
+  :lang_default: 'Spanish'
+  :lang_local: 'Español'
+  :country_default: ''
+  :country_local: ''
+  :country_code: ''
+
+:es-AR:
+  :lang_default: 'Spanish'
+  :lang_local: 'Español'
+  :country_default: 'Argentina'
+  :country_local: 'Argentina'
+  :country_code: 'AR'
+
+:es-BO:
+  :lang_default: 'Spanish'
+  :lang_local: 'Español'
+  :country_default: 'Bolivia'
+  :country_local: 'Bolivia'
+  :country_code: 'BO'
+
+:es-CL:
+  :lang_default: 'Spanish'
+  :lang_local: 'Español'
+  :country_default: 'Chile'
+  :country_local: 'Chile'
+  :country_code: 'CL'
+
+:es-CO:
+  :lang_default: 'Spanish'
+  :lang_local: 'Español'
+  :country_default: 'Colombia'
+  :country_local: 'Colombia'
+  :country_code: 'CO'
+
+:es-CR:
+  :lang_default: 'Spanish'
+  :lang_local: 'Español'
+  :country_default: 'Costa Rica'
+  :country_local: 'Costa Rica'
+  :country_code: 'CR'
+
+:es-DO:
+  :lang_default: 'Spanish'
+  :lang_local: 'Español'
+  :country_default: 'Dominican Republic'
+  :country_local: 'República Dominicana'
+  :country_code: 'DO'
+
+:es-EC:
+  :lang_default: 'Spanish'
+  :lang_local: 'Español'
+  :country_default: 'Ecuador'
+  :country_local: 'Ecuador'
+  :country_code: 'EC'
+
+:es-SV:
+  :lang_default: 'Spanish'
+  :lang_local: 'Español'
+  :country_default: 'El Salvador'
+  :country_local: 'El Salvador'
+  :country_code: 'SV'
+
+:es-GT:
+  :lang_default: 'Spanish'
+  :lang_local: 'Español'
+  :country_default: 'Guatemala'
+  :country_local: 'Guatemala'
+  :country_code: 'GT'
+
+:es-HN:
+  :lang_default: 'Spanish'
+  :lang_local: 'Español'
+  :country_default: 'Honduras'
+  :country_local: 'Honduras'
+  :country_code: 'HN'
+
+:es-MX:
+  :lang_default: 'Spanish'
+  :lang_local: 'Español'
+  :country_default: 'Mexico'
+  :country_local: 'Mexico'
+  :country_code: 'MX'
+
+:es-NI:
+  :lang_default: 'Spanish'
+  :lang_local: 'Español'
+  :country_default: 'Nicaragua'
+  :country_local: 'Nicaragua'
+  :country_code: 'NI'
+
+:es-PA:
+  :lang_default: 'Spanish'
+  :lang_local: 'Español'
+  :country_default: 'Panama'
+  :country_local: 'Panamá'
+  :country_code: 'PA'
+
+:es-PY:
+  :lang_default: 'Spanish'
+  :lang_local: 'Español'
+  :country_default: 'Paraguay'
+  :country_local: 'Paraguay'
+  :country_code: 'PY'
+
+:es-PE:
+  :lang_default: 'Spanish'
+  :lang_local: 'Español'
+  :country_default: 'Peru'
+  :country_local: 'Perú'
+  :country_code: 'PE'
+
+:es-PR:
+  :lang_default: 'Spanish'
+  :lang_local: 'Español'
+  :country_default: 'Puerto Rico'
+  :country_local: 'Puerto Rico'
+  :country_code: 'PR'
+
+:es-ES:
+  :lang_default: 'Spanish'
+  :lang_local: 'Español'
+  :country_default: 'Spain'
+  :country_local: 'España'
+  :country_code: 'ES'
+
+:es-UY:
+  :lang_default: 'Spanish'
+  :lang_local: 'Español'
+  :country_default: 'Uruguay'
+  :country_local: 'República Oriental del Uruguay'
+  :country_code: 'UY'
+
+:es-VE:
+  :lang_default: 'Spanish'
+  :lang_local: 'Español'
+  :country_default: 'Venezuela'
+  :country_local: 'Venezuela'
+  :country_code: 'VE'
+
+
+:sw:
+  :lang_default: 'Swahili'
+  :lang_local: 'Kiswahili'
+  :country_default: 'Kenya'
+  :country_local: 'Kenya'
+  :country_code: 'KE'
+
+
+# SWEDISH
+:sv:
+  :lang_default: 'Swedish'
+  :lang_local: 'Svenska'
+  :country_default: ''
+  :country_local: ''
+  :country_code: ''
+
+:sv-SE:
+  :lang_default: 'Swedish'
+  :lang_local: 'Svenska'
+  :country_default: 'Sweden'
+  :country_local: 'Sverige'
+  :country_code: 'SE'
+
+:sv-FI:
+  :lang_default: 'Swedish'
+  :lang_local: 'Svenska'
+  :country_default: 'Finland'
+  :country_local: 'Finland'
+  :country_code: 'FI'
+
+
+:syr:
+  :lang_default: 'Syriac'
+  :lang_local: 'Syriac'
+  :country_default: 'Syria'
+  :country_local: 'سورية'
+  :country_code: 'SY'
+
+:tt-RU:
+  :lang_default: 'Tatar'
+  :lang_local: 'татар теле, tatar tele'
+  :country_default: 'Russia'
+  :country_local: 'Россия'
+  :country_code: 'RU'
+
+:th-TH:
+  :lang_default: 'Thai'
+  :lang_local: 'ไทย'
+  :country_default: 'Thailand'
+  :country_local: 'เมืองไทย, ประเทศไทย, ราชอาณาจักรไทย'
+  :country_code: ''
+
+:tr:
+  :lang_default: 'Turkish'
+  :lang_local: 'Türkçe'
+  :country_default: 'Turkey'
+  :country_local: 'Türkiye'
+  :country_code: 'TR'
+
+:uk:
+  :lang_default: 'Ukrainian'
+  :lang_local: 'українська мова'
+  :country_default: 'Ukraine'
+  :country_local: 'Ukraїna'
+  :country_code: 'UA'
+
+:ur:
+  :lang_default: 'Urdu'
+  :lang_local: 'اردو'
+  :country_default: 'Pakistan'
+  :country_local: 'پاکستان'
+  :country_code: 'PK'
+
+:uz:
+  :lang_default: 'Uzbek'
+  :lang_local: 'Oʻzbek, Ўзбек, أۇزبېك'
+  :country_default: 'Uzbekistan'
+  :country_local: 'Ўзбекистон'
+  :country_code: 'UZ'
+
+:vi:
+  :lang_default: 'Vietnamese'
+  :lang_local: 'Việtnam'
+  :country_default: 'Vietnam'
+  :country_local: 'Việt Nam'
+  :country_code: 'VN'

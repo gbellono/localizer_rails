@@ -1,0 +1,12 @@
+<h3>StaticPages#page</h3>
+
+<hr>
+
+<div><span style="font-weight:bold;color:mediumblue;">available_locales:</span> <%= I18n.available_locales %></div>
+<div><span style="font-weight:bold;color:mediumblue;">active_locales:</span> <%= LocalizerRails.active_locales %></div>
+<div><span style="font-weight:bold;color:mediumblue;">default_locale:</span> <%= I18n.default_locale %></div>
+<div><span style="font-weight:bold;color:mediumblue;">locale:</span> <%= I18n.locale %></div>
+<div><span style="font-weight:bold;color:mediumblue;">cookies locale:</span> <%= cookies[:locale] %></div>
+<div><span style="font-weight:bold;color:mediumblue;">session locale:</span> <%= session[:locale] %></div>
+
+<hr>

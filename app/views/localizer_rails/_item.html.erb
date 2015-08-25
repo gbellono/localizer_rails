@@ -1,0 +1,18 @@
+<% if current_page?(page_url) %>
+
+  <li class="loc_menu_active">
+    <span class="loc_menu_active disabled">
+      <%= render_elements(code_sym, lang_name) %>
+    </span>
+  </li>
+
+<% else %>
+
+  <li>
+    <a href="<%= page_url %>" class="loc_menu" >
+      <%= render_elements(code_sym, lang_name) %>
+    </a>
+  </li>
+
+<% end %>
+

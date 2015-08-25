@@ -1,0 +1,18 @@
+<% if current_page?(page_url) %>
+
+  <li class="active">
+    <a href="<%= page_url %>" disabled="disabled" >
+      <%= render_elements(code_sym, lang_name) %>
+    </a>
+  </li>
+
+<% else %>
+
+  <li>
+    <a href="<%= page_url %>" >
+      <%= render_elements(code_sym, lang_name) %>
+    </a>
+  </li>
+
+<% end %>
+

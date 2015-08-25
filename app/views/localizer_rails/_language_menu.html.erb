@@ -1,0 +1,8 @@
+<% bootstrap = '.bootstrap' unless LocalizerRails.use_bootstrap.blank? %>
+
+<% LocalizerRails.active_locales_map.each do |code_sym, lang_name| %>
+
+  <%= render :partial => "localizer_rails/item#{bootstrap}",
+             :locals  => { :code_sym => code_sym, :lang_name => lang_name, :page_url  => url_for(:locale => code_sym) } %>
+
+<% end %>

@@ -1,0 +1,19 @@
+<div class="dialog">
+  <div>
+    <h3><b>404</b> <span style="font-weight: normal;font-size: 80%">[ <%= I18n.locale %> ]</span></h3>
+
+    <p style="color:red;">@err_code: <b><%= @err_code %></b></p>
+
+    <p style="color:red;">@err_msg: <b><%= @err_msg %></b></p>
+
+    <p style="color:red;">t("rails_errors.#{@err_msg}") message: <b><%= t("rails_errors.#{@err_msg}") %></b></p>
+
+    <p>&nbsp;</p>
+
+    <p style="color:blue;">@err_code+t("rails_errors.#{@err_msg}":
+      <b><%= "[#{@err_code}]" %> <%= t("rails_errors.#{@err_msg}") %></b></p>
+  </div>
+</div>
+<div style="margin-top:12px;padding:2px 4px;border:1px solid #abc;width:auto;">
+  <%= link_to 'BACK', :back %>
+</div>
