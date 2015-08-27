@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.email       = ["giovanni.bellono@gmail.com"]
   s.homepage    = "https://github.com/gbellono/localizer_rails"
   s.summary     = "Rails engine - sets best-match I18n.locale and builds locale_menu (Bootstrap 3+ supported)."
-  s.description = "Rails engine - sets the I18n.locale through a cascading best-match search and builds the locale_menu (Bootstrap 3+ supported)."
+  s.description = "Rails engine - sets I18n.locale through a best-match cascading search and builds locale_menu (Bootstrap 3+ supported)."
   s.license     = "MIT"
 
   s.require_paths = ["lib"]

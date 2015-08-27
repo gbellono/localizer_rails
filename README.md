@@ -12,11 +12,11 @@ Rails version: 4+
 
 **Gemfile**:
 
-    gem 'localizer_rails', '0.1.0'
+    gem 'localizer_rails', '0.1.1'
 **Style**:
 
     @import 'localizer_rails/localizer_rails';
-&nbsp;&nbsp;&nbsp;&nbsp;OR
+OR
 
     require localizer_rails
 
@@ -38,11 +38,12 @@ and sets values accordingly (cookies, link_to, ...)
 
 1. use in **_before_action_**:
 
-    <pre>before_action LocalizerRails::SetLoc</pre>
+<pre>before_action LocalizerRails::SetLoc</pre>
 
 2. use in **_routes_**, too:
 
-    <pre>scope ":locale", locale: /#{LocalizerRails.active_locales.join("|")}/ do ...
+<pre>
+scope ":locale", locale: /#{LocalizerRails.active_locales.join("|")}/ do ...
   ...
   match '*path', to: redirect { |p, req|
                    Localizer.set_locale(req)
