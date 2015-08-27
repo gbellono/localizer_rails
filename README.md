@@ -12,7 +12,7 @@ Rails version: 4+
 
 **Gemfile**:
 
-    gem 'localizer_rails', '0.1.1'
+    gem 'localizer_rails', '0.1.2'
 **Style**:
 
     @import 'localizer_rails/localizer_rails';
@@ -36,11 +36,11 @@ finds the best-match for `I18n.locale` through a cascading search:
 
 and sets values accordingly (cookies, link_to, ...)
 
-1. use in **_before_action_**:
+- use in **_before_action_**:
 
 <pre>before_action LocalizerRails::SetLoc</pre>
 
-2. use in **_routes_**, too:
+- use in **_routes_**, too:
 
 <pre>
 scope ":locale", locale: /#{LocalizerRails.active_locales.join("|")}/ do ...
@@ -67,7 +67,7 @@ scope ":locale", locale: /#{LocalizerRails.active_locales.join("|")}/ do ...
 
 builds an hash of locale key/value pairs useful to build a `locale_menu`
 
-_[optional]_ override and edit `config/LocalizerRails/lang_countries.yml`
+_[optional]_ override and edit `config/localizer_rails/lang_countries.yml`
 
 <pre>
 :da:
@@ -98,14 +98,14 @@ xtra country specs, use if `locale_menu` lists countries instead of languages:
 **_NOTE_**: languages will be listed ONLY if included in `i18n.available_locales`
 
 _[optional]_ edit **_LI structure_** and attributes in
-<pre>app/views/LocalizerRails/_item[.bootstrap].html.erb</pre>
+<pre>app/views/localizer_rails/_item[.bootstrap].html.erb</pre>
 
 _[optional]_ edit **_LI elements_** and their display order in
-<pre>app/views/LocalizerRails/_elements.html.erb</pre>
+<pre>app/views/localizer_rails/_elements.html.erb</pre>
 
 __CONFIGURATION__
 
-_[optional]_ override and edit `config/initializers/LocalizerRails/LocalizerRails_prefs.rb`
+_[optional]_ override and edit `config/initializers/localizer_rails/localizer_rails_prefs.rb`
 
 <pre>
 LocalizerRails::Conf.configure do |conf|
